@@ -1,0 +1,63 @@
+@import "../shared/css/android.css";
+
+/*********************
+ * 安卓独有样式
+ ********************/
+.mediasug-outer-container {
+    margin-bottom: 14px;
+}
+.authorbar .author-bar .sub-title-w .article-tag {
+    line-height: 11px !important;
+}
+.authorbar .author-bar .name-link-wrap .name-link-w .author-name-link {
+    font-weight: bold;
+}
+.font_s article,
+.font_s article h1,
+.font_s article h2,
+.font_s article h3,
+.font_s article h4,
+.font_s article h5,
+.font_s article h6 {
+    font-size: 15px;
+}
+article,
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6,
+.font_m article,
+.font_m article h1,
+.font_m article h2,
+.font_m article h3,
+.font_m article h4,
+.font_m article h5,
+.font_m article h6 {
+    font-size: 17px;
+}
+.font_l article,
+.font_l article h1,
+.font_l article h2,
+.font_l article h3,
+.font_l article h4,
+.font_l article h5,
+.font_l article h6 {
+    font-size: 19px;
+}
+.font_xl article,
+.font_xl article h1,
+.font_xl article h2,
+.font_xl article h3,
+.font_xl article h4,
+.font_xl article h5,
+.font_xl article h6 {
+    font-size: 22px;
+}
+article ol {
+    margin-left: 36px;
+}
+article blockquote ol {
+    margin-left: 28px;
+}
